@@ -33,7 +33,9 @@ redirect_from:
 Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-LBPTmIAAAAJ&citation_for_view=-LBPTmIAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='-LBPTmIAAAAJ:W7OEmFMy1HYC'></span></strong>
-- The oxygen evolution reaction (OER), as an essential process in water decomposition and air batteries, has received increasing attention in the context of clean energy production and efficient energy storage. With their abundant composition and morphology, manganese-based oxides (MnOx) offer great possibilities for the exploration and design of OER catalysts. In this paper, three classes of MnOx materials, including MnO2, Mn2O3, and Mn3O4, are systematically reviewed and their development and applications in OER systems are comprehensively presented. Subsequently, the effects of Jahn–Teller distortion and the question of the active site and stability of MnOx in the OER are discussed, and the presence of Mn3+, which is considered essential for OER activity, and strategies for improving performance are proposed. This paper focuses on the impact of crystal structure, catalytic mechanisms, and design strategies on MnOx.
+
+- This paper focuses on the impact of crystal structure, catalytic mechanisms, and design strategies on MnOx.
+
 </div>
 </div>
 
