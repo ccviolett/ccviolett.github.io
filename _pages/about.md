@@ -25,7 +25,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMCA 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMCA 2023</div><img src='https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2TA09039B&imageInfo.ImageIdentifier.Year=2023' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b)
@@ -37,7 +37,7 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b), Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu, **JMCA 2023**
 
 # 🎖 Honors and Awards
 - *2023.05* 中国高校计算机大赛——团体程序设计天梯赛（本科组）（团队奖）省级一等奖
@@ -57,9 +57,6 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 - *2021.11* ICPC国际大学生程序设计竞赛国家级三等奖
 - *2022.11* 中国大学生程序设计竞赛（CCPC）国家级二等奖
 - *2022.11* 中国大学生程序设计竞赛（CCPC）国家级二等奖
-
-
-
 
 # 📖 Educations
 - *2021.09 - 2023.11 (now)*, 本科, 河北秦皇岛, 东北大学秦皇岛分校
