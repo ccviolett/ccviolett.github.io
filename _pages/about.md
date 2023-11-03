@@ -75,6 +75,8 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 # 💻 Internships
 - 暂无
 
-# 🏗 Project
+# 🏗 Projects
 - 待添加
 
+# 🧑 Friends
+- [Yi Ren (任意)](https://rayeren.github.io/) 
