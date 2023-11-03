@@ -45,20 +45,13 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 - [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b), Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu, **JMCA 2023**
 
 # 🎖 Honors and Awards
-- *2023.05* 中国高校计算机大赛——团体程序设计天梯赛（本科组）（团队奖）省级一等奖
-- *2023.05* 中国高校计算机大赛——团体程序设计天梯赛（本科组）（团队奖）国家级三等奖
-- *2023.05* 中国高校计算机大赛——团体程序设计天梯赛（本科组）（个人奖）国家级三等奖
 - *2022.11* ICPC国际大学生程序设计竞赛 [国家级二等奖](/sources/ICPC2022-济南-银牌.pdf)
 - *2022.11* 中国大学生程序设计竞赛（CCPC）[国家级三等奖](/sources/CCPC2022-绵阳-铜牌.jpg)
 - *2022.10* 中国大学生程序设计竞赛（CCPC）[国家级二等奖](/sources/CCPC2022-桂林-银牌.jpg)
 - *2022.07* 中国大学生程序设计竞赛（CCPC）国家级三等奖
 - *2022.06* 第一届火象投资家全国大学生统计建模量化模拟交易大赛 [国家级一等奖](/sources/202207052037303.png)
 - *2022.06* “蓝桥杯”全国软件和信息技术专业人才大赛 [国家级二等奖](/sources/蓝桥杯2021-国赛-二等奖.jpg)
-- *2022.05* 中国高校计算机大赛——团体程序设计天梯赛（本科组）（团队奖）国家级二等奖
-- *2022.05* 中国高校计算机大赛——团体程序设计天梯赛（本科组）（团队奖）省级特等奖
-- *2022.05* 中国高校计算机大赛——团体程序设计天梯赛（本科组）（团队奖）省级特等奖
 - *2022.05* “蓝桥杯”全国软件和信息技术专业人才大赛 [省级一等奖](/sources/蓝桥杯2021-省赛-一等奖.jpg)
-- *2022.05* 中国高校计算机大赛——团体程序设计天梯赛（本科组）（个人奖）国家级三等奖
 - *2022.04* ICPC国际大学生程序设计竞赛 [国家级二等奖](/sources/ICPC2021-昆明-铜牌.pdf)
 - *2021.11* ICPC国际大学生程序设计竞赛 [国家级三等奖](/sources/ICPC2021-沈阳-铜牌.pdf)
 - *2022.11* 中国大学生程序设计竞赛（CCPC）[国家级二等奖](/sources/CCPC2021-广州-银牌.jpg)
@@ -86,7 +79,7 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 
 [H5 稀土掘金](https://ccviolett.github.io/H5-juejin/)
 
-Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu
+ccviolett
 
 [**Project**](https://github.com/ccviolett/H5-juejin)
 
@@ -99,7 +92,7 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 </div>
 </div>
 
-- [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b), Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu, **JMCA 2023**
+- [CppDB](https://github.com/ccviolett/CppDB), 使用 C++ 实现 MySQL 基本功能, 开发中
 
 # 🧑 Friends
 - [Yi Ren (任意)](https://rayeren.github.io/) 
