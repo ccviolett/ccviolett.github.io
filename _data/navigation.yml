@@ -24,5 +24,8 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
+  - title: "Article"
+    url: "/#-article"
+
   - title: "Friends"
     url: "/#-friends"
