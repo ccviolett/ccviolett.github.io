@@ -21,7 +21,10 @@ redirect_from:
 我目前就读于东北大学秦皇岛分校，是一名机械工程专业的大三学生。
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 主页正式创建！
+- *2023.11*: 🎉🎉 [罗潇阳的主页](https://ccviolett.github.io)正式创建！
+- *2023.01*: 💼💼 担任华为耀星计划校园大使
+- *2022.12*: 💼💼 担任字节跳动稀土掘金 KeyPlayer 
+- *2022.10*: 🎉🎉 “三下乡”暑期社会实践活动中，带领“风泽中孚”井冈山乡村振兴促进团获校级重点项目
 
 # 📝 Publications 
 
@@ -60,6 +63,7 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 - *2021.11* ICPC国际大学生程序设计竞赛 [国家级三等奖](/sources/ICPC2021-沈阳-铜牌.pdf)
 - *2022.11* 中国大学生程序设计竞赛（CCPC）[国家级二等奖](/sources/CCPC2021-广州-银牌.jpg)
 - *2022.11* 中国大学生程序设计竞赛（CCPC）[国家级二等奖](/sources/CCPC2021-桂林-银牌.jpg)
+- *2020.08* NOI 全国青少年信息学奥林匹克竞赛 国家级铜牌 
 
 # 📖 Educations
 - *2021.09 - 2023.11 (now)*, 本科, 河北秦皇岛, 东北大学秦皇岛分校
@@ -77,7 +81,27 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 - 暂无
 
 # 🏗 Projects
-- 待添加
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">React</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[H5 稀土掘金](https://ccviolett.github.io/H5-juejin/)
+
+Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu
+
+[**Project**](https://github.com/ccviolett/H5-juejin)
+
+- 项目来源于“字节跳动字学计划v2.0“，使用了 `Nodejs + React + SASS` 的技术栈
+- 解决问题：使用 React 仿写一个单页应用稀土掘金客户端，完成文章列表与文章两个模块，实现基础交互逻辑并完成 API 对接
+- 项目难点：单页应用、无限滚动、历史页面
+- 技术细节见[讲解视频](https://www.bilibili.com/video/BV1LT41157VK)
+- 发布了[npm 仓库](https://www.npmjs.com/package/h5-juejin)
+
+</div>
+</div>
+
+- [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b), Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu, **JMCA 2023**
 
 # 🧑 Friends
 - [Yi Ren (任意)](https://rayeren.github.io/) 
+- [lmo / jyi2ya / Jiayi He (何佳奕)](https://www.cnblogs.com/jyi2ya/)
+- [Henrik-Yao / Hui Yao (姚辉)](http://www.henrik-yao.cn/)
