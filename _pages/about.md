@@ -101,3 +101,6 @@ ccviolett
 - [Yi Ren (任意)](https://rayeren.github.io/) 
 - [lmo / jyi2ya / Jiayi He (何佳奕)](https://www.cnblogs.com/jyi2ya/)
 - [Henrik-Yao / Hui Yao (姚辉)](http://www.henrik-yao.cn/)
+
+# Verbose
+- *2023.11.04* 开始学习 Next.js
