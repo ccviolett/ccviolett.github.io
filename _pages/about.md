@@ -24,7 +24,6 @@ redirect_from:
 目前我正在自学人工智能。
 
 # 🔥 News
-- *2023.11*: 🎉🎉 [罗潇阳的主页](https://ccviolett.github.io)正式创建！
 - *2023.01*: 💼💼 担任华为耀星计划校园大使
 - *2022.12*: 💼💼 担任字节跳动稀土掘金 KeyPlayer 
 - *2022.10*: 🎉🎉 “三下乡”暑期社会实践活动中，带领“风泽中孚”井冈山乡村振兴促进团获校级重点项目
@@ -116,6 +115,6 @@ CCViolett(罗潇阳)
 - [Henrik-Yao / Hui Yao (姚辉)](http://www.henrik-yao.cn/)
 
 # Verbose
+- *2023.11.10*: [罗潇阳的主页](https://ccviolett.github.io)更新 v1.1
 - *2023.11.04* 开始学习 Next.js
-
-V1.0
+- *2023.11.01*: [罗潇阳的主页](https://ccviolett.github.io)正式创立 v1.0
