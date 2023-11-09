@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
 我叫罗潇阳，湖南娄底人，目前就读于东北大学机械工程专业。我从初中开始接触编程，参加信息竞赛，同时对全栈开发产生了兴趣，高中时就承担了学校的 Online Judge 的开发，累积了丰富的项目开发经验，拥有扎实的代码编写能力。
@@ -29,7 +36,7 @@ redirect_from:
 
 Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-LBPTmIAAAAJ&citation_for_view=-LBPTmIAAAAJ:W7OEmFMy1HYC)
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-LBPTmIAAAAJ&citation_for_view=-LBPTmIAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='-LBPTmIAAAAJ:W7OEmFMy1HYC'></span></strong>
 
 - This paper focuses on the impact of crystal structure, catalytic mechanisms, and design strategies on MnOx.
   </div></div>
@@ -111,4 +118,5 @@ CCViolett(罗潇阳)
 - [Henrik-Yao / Hui Yao (姚辉)](http://www.henrik-yao.cn/)
 
 # Verbose
+- *2023.11.10* 更新主页 v1.0
 - *2023.11.04* 开始学习 Next.js
