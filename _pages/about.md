@@ -31,14 +31,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">JMCA 2023</div>
-      <img src='https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2TA09039B&imageInfo.ImageIdentifier.Year=2023' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">JMCA 2023</div> <img src='https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2TA09039B&imageInfo.ImageIdentifier.Year=2023' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 
 [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b)
 
@@ -48,7 +41,7 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 
 - This paper focuses on the impact of crystal structure, catalytic mechanisms, and design strategies on MnOx.
 
-  </div>
+</div>
 </div>
 
 - [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b), Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu, **JMCA 2023**
@@ -95,17 +88,10 @@ CCViolett(罗潇阳)
 - 技术细节见[讲解视频](https://www.bilibili.com/video/BV1LT41157VK)
 - 发布了[npm 仓库](https://www.npmjs.com/package/h5-juejin)
 
-  </div>
+</div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">C++</div>
-      <img src='/images/500x300.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">C++</div> <img src='/images/500x300.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 
 [CppDB](https://github.com/ccviolett/CppDB)
 
@@ -118,7 +104,7 @@ CCViolett(罗潇阳)
 - 项目难点在于该项目综合运用多种设计模式，实现了高度可扩展性，与 Spring 的思想具有一定的相似性
 - 目前项目还在开发中
 
-  </div>
+</div>
 </div>
 
 # 📄 Article
@@ -131,3 +117,5 @@ CCViolett(罗潇阳)
 
 # Verbose
 - *2023.11.04* 开始学习 Next.js
+
+V1.0
