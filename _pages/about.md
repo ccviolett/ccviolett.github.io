@@ -31,7 +31,15 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMCA 2023</div><img src='https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2TA09039B&imageInfo.ImageIdentifier.Year=2023' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">JMCA 2023</div>
+      <img src='https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2TA09039B&imageInfo.ImageIdentifier.Year=2023' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
 [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b)
 
 Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu
@@ -39,7 +47,9 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-LBPTmIAAAAJ&citation_for_view=-LBPTmIAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='-LBPTmIAAAAJ:W7OEmFMy1HYC'></span></strong>
 
 - This paper focuses on the impact of crystal structure, catalytic mechanisms, and design strategies on MnOx.
-  </div></div>
+
+  </div>
+</div>
 
 - [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b), Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu, **JMCA 2023**
 
@@ -84,6 +94,7 @@ CCViolett(罗潇阳)
 - 项目难点在于路由管理、无限滚动和查看历史页面
 - 技术细节见[讲解视频](https://www.bilibili.com/video/BV1LT41157VK)
 - 发布了[npm 仓库](https://www.npmjs.com/package/h5-juejin)
+
   </div>
 </div>
 
@@ -95,6 +106,7 @@ CCViolett(罗潇阳)
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
+
 [CppDB](https://github.com/ccviolett/CppDB)
 
 CCViolett(罗潇阳)
@@ -118,5 +130,4 @@ CCViolett(罗潇阳)
 - [Henrik-Yao / Hui Yao (姚辉)](http://www.henrik-yao.cn/)
 
 # Verbose
-- *2023.11.10* 更新主页 v1.0
 - *2023.11.04* 开始学习 Next.js
