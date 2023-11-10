@@ -81,8 +81,8 @@ CCViolett(罗潇阳)
 
 [**Project**](https://github.com/ccviolett/H5-juejin)
 
-- 项目来源于“字节跳动字学计划v2.0“，使用了 `Nodejs + React + SASS` 的技术栈
-- 实现了一个单页应用稀土掘金客户端，完成文章列表与文章两个模块，实现基础交互逻辑并完成 API 对接
+- 项目来源于“字节跳动字学计划v2.0“，使用了 `Nodejs + React + SASS` 的技术栈，项目通过了字节跳动相关负责团队验收
+- 实现了一个单页应用稀土掘金客户端，完成文章列表与文章两个模块，包括首页、文章页、评论区、登录页、个人信息页、创作后台等页面，实现基础交互逻辑并完成 API 对接
 - 项目难点在于路由管理、无限滚动和查看历史页面
 - 技术细节见[讲解视频](https://www.bilibili.com/video/BV1LT41157VK)
 - 发布了[npm 仓库](https://www.npmjs.com/package/h5-juejin)
@@ -115,6 +115,7 @@ CCViolett(罗潇阳)
 - [Henrik-Yao / Hui Yao (姚辉)](http://www.henrik-yao.cn/)
 
 # Verbose
-- *2023.11.10*: [罗潇阳的主页](https://ccviolett.github.io)更新 v1.1
+- *2023.11.10*: [罗潇阳的主页](https://ccviolett.github.io)更新 v1.1.1
+- *2023.11.09*: [罗潇阳的主页](https://ccviolett.github.io)更新 v1.1.0
 - *2023.11.04* 开始学习 Next.js
-- *2023.11.01*: [罗潇阳的主页](https://ccviolett.github.io)正式创立 v1.0
+- *2023.11.01*: [罗潇阳的主页](https://ccviolett.github.io)正式创立 v1.0.0
