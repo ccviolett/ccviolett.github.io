@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 0.5em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+$serif                      : "LXGW WenKai Mono TC", monospace, Georgia, Times, serif;
+$sans-serif                 : "LXGW WenKai Mono TC", monospace, "Trebuchet MS", Helvetica, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -31,9 +31,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : "LXGW WenKai Mono TC", monospace, $sans-serif;
-$header-font-family         : "LXGW WenKai Mono TC", monospace, $sans-serif;
-$caption-font-family        : "LXGW WenKai Mono TC", monospace, $serif;
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif;
+$caption-font-family        : $serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
