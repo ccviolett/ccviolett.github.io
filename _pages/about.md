@@ -17,33 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我叫罗潇阳，湖南娄底人，目前就读于东北大学机械工程专业。我从初中开始接触编程，参加信息竞赛，同时对全栈开发产生了兴趣，高中时就承担了学校的 Online Judge 的开发，累积了丰富的项目开发经验，拥有扎实的代码编写能力。
+我叫罗潇阳，湖南娄底人，本科就读于东北大学。从初中开始接触编程参加信息竞赛，并在高中代表湖南省参加 NOI 比赛，大学 5 次获得 ICPC/CCPC 国家级银牌。
 
-进入大学后，我虽然进入到了机械专业，但是仍然积极参与计算机算法竞赛，披荆斩棘，夺得了若干国家级奖项。在此过程中，我也逐渐对人工智能领域产生了兴趣。
+在参加算法竞赛的过程中，我对全栈开发产生了兴趣，高中时承担了学校的 Online Judge 的开发维护，大学时承担了学校的训练考试平台的开发，累积了丰富的项目开发经验，拥有扎实的代码编写能力。
 
 目前我正在自学人工智能，如果您对我感兴趣，可以下载[我的简历](/sources/简历-罗潇阳.pdf)。
 
 # 🔥 News
+- *2024.06*: 💼💼 腾讯实习入职
 - *2023.01*: 💼💼 担任华为耀星计划校园大使
 - *2022.12*: 💼💼 担任字节跳动稀土掘金 KeyPlayer 
 - *2022.10*: 🎉🎉 “三下乡”暑期社会实践活动中，带领“风泽中孚”井冈山乡村振兴促进团获校级重点项目
-
-# 📝 Publications 
-
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">JMCA 2023</div> <img src='https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2TA09039B&imageInfo.ImageIdentifier.Year=2023' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
-
-[Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b)
-
-Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-LBPTmIAAAAJ&citation_for_view=-LBPTmIAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='-LBPTmIAAAAJ:W7OEmFMy1HYC'></span></strong>
-
-- This paper focuses on the impact of crystal structure, catalytic mechanisms, and design strategies on MnOx.
-
-</div>
-</div>
-
-- [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b), Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu, **JMCA 2023**
 
 # 🎖 Honors and Awards
 - *2022.11* ICPC国际大学生程序设计竞赛 [国家级二等奖](/sources/ICPC2022-济南-银牌.pdf)
@@ -53,23 +37,14 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 - *2022.06* 第一届火象投资家全国大学生统计建模量化模拟交易大赛 [国家级一等奖](/sources/202207052037303.png)
 - *2022.06* “蓝桥杯”全国软件和信息技术专业人才大赛 [国家级二等奖](/sources/蓝桥杯2021-国赛-二等奖.jpg)
 - *2022.05* “蓝桥杯”全国软件和信息技术专业人才大赛 [省级一等奖](/sources/蓝桥杯2021-省赛-一等奖.jpg)
-- *2022.04* ICPC国际大学生程序设计竞赛 [国家级二等奖](/sources/ICPC2021-昆明-铜牌.pdf)
+- *2022.04* ICPC国际大学生程序设计竞赛 [国家级二等奖](/sources/ICPC2021-昆明-银牌.pdf)
 - *2021.11* ICPC国际大学生程序设计竞赛 [国家级三等奖](/sources/ICPC2021-沈阳-铜牌.pdf)
 - *2021.11* 中国大学生程序设计竞赛（CCPC）[国家级二等奖](/sources/CCPC2021-广州-银牌.jpg)
 - *2021.11* 中国大学生程序设计竞赛（CCPC）[国家级二等奖](/sources/CCPC2021-桂林-银牌.jpg)
-- *2020.08* NOI 全国青少年信息学奥林匹克竞赛 国家级铜牌 
-
-# 📖 Educations
-- *2021.09 - 2023.11 (now)*, 本科, 河北秦皇岛, 东北大学
-- *2019.09 - 2021.07*, 高中, 湖南长沙, 长沙市第一中学
-- *2019.04 - 2019.07*, 初中，湖南湘潭，长沙市一中九华中学
-- *2017.09 - 2019.04*, 初中，湖南长沙, 长沙市一中岳麓中学
-- *2016.09 - 2017.09*, 小学, 湖南娄底, 新化县铁牛小学
-- *2014.09 - 2016.07*, 小学, 广东中山, 中山市小榄广源小学
-- *2013.09 - 2014.07*, 小学, 湖南娄底, 新化县第一实验小学
+- *2020.08* NOI 全国青少年信息学奥林匹克竞赛 [国家级铜牌](https://www.noi.cn/hjmd/mdcx)
 
 # 💻 Internships
-- 暂无
+- *2024.06 - (now)*, 腾讯, 深圳
 
 # 🏗 Projects
 
@@ -89,6 +64,7 @@ CCViolett(罗潇阳)
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">React</div><img src='/images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,6 +82,32 @@ CCViolett(罗潇阳)
 
 </div>
 </div>
+
+# 📝 Publications 
+
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">JMCA 2023</div> <img src='https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2TA09039B&imageInfo.ImageIdentifier.Year=2023' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+
+[Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b)
+
+Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-LBPTmIAAAAJ&citation_for_view=-LBPTmIAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='-LBPTmIAAAAJ:W7OEmFMy1HYC'></span></strong>
+
+- This paper focuses on the impact of crystal structure, catalytic mechanisms, and design strategies on MnOx.
+
+</div>
+</div>
+
+- [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b), Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu, **JMCA 2023**
+
+# 📖 Educations
+- *2021.09 - 2025.07(now)*, 本科, 河北秦皇岛, 东北大学
+- *2019.09 - 2021.07*, 高中, 湖南长沙, 长沙市第一中学
+- *2019.04 - 2019.07*, 初中，湖南湘潭，长沙市一中九华中学
+- *2017.09 - 2019.04*, 初中，湖南长沙, 长沙市一中岳麓中学
+- *2016.09 - 2017.09*, 小学, 湖南娄底, 新化县铁牛小学
+- *2014.09 - 2016.07*, 小学, 广东中山, 中山市小榄广源小学
+- *2013.09 - 2014.07*, 小学, 湖南娄底, 新化县第一实验小学
 
 # 📄 Article
 - 暂无
