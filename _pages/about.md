@@ -17,11 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我叫罗潇阳，湖南娄底人，本科就读于东北大学。从初中开始接触编程参加信息竞赛，并在高中代表湖南省参加 NOI 比赛，大学 5 次获得 ICPC/CCPC 国家级银牌。
+我叫罗潇阳，湖南娄底人，本科就读于东北大学。
 
-在参加算法竞赛的过程中，我对全栈开发产生了兴趣，高中时承担了学校的 Online Judge 的开发维护，大学时承担了学校的训练考试平台的开发，累积了丰富的项目开发经验，拥有扎实的代码编写能力。
+竞赛方面，我经验丰富，国家级获奖颇丰。初中开始接触编程参加信息竞赛，并在高中代表湖南省参加 NOI 比赛获得国家级铜牌，大学 5 次获得 ICPC/CCPC 国家级银牌。
 
-目前我正在自学人工智能，如果您对我感兴趣，可以下载[我的简历](/sources/简历-罗潇阳.pdf)。
+开发方面，我有产品思维，实现过多个全栈项目。高中时承担了学校的 Online Judge 开发和运维，保证了学校竞赛队 50+ 人三年的日常竞赛训练；大学时接下了学校导师横向项目“计算机学习网”全栈开发，3 个月时间实现了项目的 MVP。
+
+团队方面，我极具领导力，参与过多类型的项目。在“三下乡“活动中，我从零招募“井冈山乡村振兴促进团”，带领 7 人团队走进大山中农户的家里，带领团队完成了从前期的选题、立项、行程规划、政府对接，到中期的实地考察、拍摄记录，到后期的汇报路演、总结复盘，获得了校优秀团队的称号。在“挑战杯”比赛中，我加入学长组建的团队，独立负责了“农村畜牧废水”子项目，并协助发表了相关论文，目前该项目已经进入了国家赛。
+
+工作方面，我产出高效且持续，能够清晰明确进行汇报。我在腾讯实习期间，主导了两个项目的开发，协助了一个项目的推进，代码量破万行。三个项目全部投入线上运营，我完成了运营数据的分析和汇报材料端撰写，并向 +2 进行了汇报。
+
+如果您对我感兴趣，可以下载[我的简历](/sources/简历-罗潇阳.pdf)。
 
 # 🔥 News
 - *2024.06*: 💼💼 腾讯实习入职
@@ -47,6 +53,52 @@ redirect_from:
 - *2024.06 - (now)*, 腾讯, 深圳
 
 # 🏗 Projects
+
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">C++</div> <img src='/images/500x300.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+
+[基于混元大模型的情报标准化 Agent 及运营工具](#)
+
+copoluo(罗潇阳)
+
+[**Project**](#)
+
+- 为进一步提升内网安全性，需扩大处理月均万级的第三方漏洞情报信息，人工筛查无法满足，考虑引入大模型来解放一线人员
+- 主导完成了情报标准化 Agent，能够通过情报 URL 提取出标准化的 JSON 格式漏洞情报信息，解析成功率达到 95%+
+- 接入内部安全平台，完成资产关联及告警生成的全链路自动化流程，产生月均 10+ 漏洞工单，对比人工筛查的方式存在新增漏洞
+- 完成相关运营工具的开发，如情报解析、资产关联、告警生成的企业微信机器人，漏洞情报数据库、运营看板网站。
+- 在本地 Agent 稳定运行的前提下，通过内部低代码平台实现 Agent 迭代的解耦，双线运行确保了服务的稳定性
+
+</div>
+</div>
+
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">C++</div> <img src='/images/500x300.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+
+[基于混元大模型的漏洞工单智能问答客服](#)
+
+copoluo(罗潇阳)
+
+[**Project**](#)
+
+- 为进一步解放一线人员，提高用户的漏洞相关工单处理效率，考虑引入大模型来完成前置的智能问答客服
+- 项目正在开发推进中
+
+</div>
+</div>
+
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">C++</div> <img src='/images/500x300.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+
+[Web 端弱口令扫描工具](#)
+
+copoluo(罗潇阳)
+
+[**Project**](#)
+
+- 为进一步提升内网安全性，需处理潜在的弱口令漏洞
+- 项目正在开发推进中
+
+</div>
+</div>
+
 
 <div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">C++</div> <img src='/images/500x300.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 
