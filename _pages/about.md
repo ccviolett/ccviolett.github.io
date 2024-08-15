@@ -25,11 +25,12 @@ redirect_from:
 
 团队方面，我极具领导力，参与过多类型的项目。在“三下乡“活动中，我从零招募“井冈山乡村振兴促进团”，带领 7 人团队走进大山中农户的家里，带领团队完成了从前期的选题、立项、行程规划、政府对接，到中期的实地考察、拍摄记录，到后期的汇报路演、总结复盘，获得了校优秀团队的称号。在“挑战杯”比赛中，我加入学长组建的团队，独立负责了“农村畜牧废水”子项目，并协助发表了相关论文，目前该项目已经进入了国家赛。
 
-工作方面，我产出高效且持续，能够清晰明确进行汇报。我在腾讯实习期间，主导了两个项目的开发，协助了一个项目的推进，代码量破万行。三个项目全部投入线上运营，我完成了运营数据的分析和汇报材料端撰写，并向 +2 进行了汇报。
+工作方面，我产出高效且持续，能够清晰明确进行汇报。我在腾讯实习期间，主导了两个项目的开发，协助了一个项目的推进。三个项目全部投入线上运营，我完成了运营数据的分析和汇报材料端撰写，并向 +2 进行了汇报。
 
 如果您对我感兴趣，可以下载[我的简历](/sources/简历-罗潇阳.pdf)。
 
 # 🔥 News
+- *2024.08*: 💼💼 腾讯实习转正拟留用
 - *2024.06*: 💼💼 腾讯实习入职
 - *2023.01*: 💼💼 担任华为耀星计划校园大使
 - *2022.12*: 💼💼 担任字节跳动稀土掘金 KeyPlayer 
@@ -54,7 +55,8 @@ redirect_from:
 
 # 🏗 Projects
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">C++</div> <img src='/images/500x300.png' alt="sym" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> 
+<div class='paper-box-text' markdown="1">
 
 [基于混元大模型的情报标准化 Agent 及运营工具](#)
 
@@ -153,7 +155,7 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 - [Manganese-based oxides Electrocatalysts for the Oxygen Evolution Reaction A Review](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09039b), Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili Lv, Zhaoxiang Li and Xuanwen, Liu, **JMCA 2023**
 
 # 📖 Educations
-- *2021.09 - 2025.07(now)*, 本科, 河北秦皇岛, 东北大学
+- *2021.09 - 2025.07*, 本科, 河北秦皇岛, 东北大学
 - *2019.09 - 2021.07*, 高中, 湖南长沙, 长沙市第一中学
 - *2019.04 - 2019.07*, 初中，湖南湘潭，长沙市一中九华中学
 - *2017.09 - 2019.04*, 初中，湖南长沙, 长沙市一中岳麓中学
@@ -161,16 +163,7 @@ Peng Wang, Shiqi Zhang, Zhaobo Wang, Yuhan Mo, **Xiaoyang Luo**, Fan Yang, Meili
 - *2014.09 - 2016.07*, 小学, 广东中山, 中山市小榄广源小学
 - *2013.09 - 2014.07*, 小学, 湖南娄底, 新化县第一实验小学
 
-# 📄 Article
-- 暂无
-
 # 🧑 Friends
 - [Yi Ren (任意)](https://rayeren.github.io/) 
 - [lmo / jyi2ya / Jiayi He (何佳奕)](https://www.cnblogs.com/jyi2ya/)
 - [Henrik-Yao / Hui Yao (姚辉)](http://www.henrik-yao.cn/)
-
-# Verbose
-- *2023.11.10*: [罗潇阳的主页](https://ccviolett.github.io)更新 v1.1.2
-- *2023.11.09*: [罗潇阳的主页](https://ccviolett.github.io)更新 v1.1.0
-- *2023.11.04* 开始学习 Next.js
-- *2023.11.01*: [罗潇阳的主页](https://ccviolett.github.io)正式创立 v1.0.0
